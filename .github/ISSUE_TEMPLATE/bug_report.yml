@@ -1,0 +1,81 @@
+name: Bug report
+description: Report a wrong, missing or crashing conversion
+title: "bug: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please do **not** paste real personal data (names, phone
+        numbers, addresses, customer text). Synthesize an equivalent example instead.
+
+  - type: textarea
+    id: input
+    attributes:
+      label: Input
+      description: The exact string you passed in (copy-paste, UTF-8).
+      render: text
+      placeholder: "iki kasım iki bin yirmi altı saat on dört otuzda"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected output
+      render: text
+      placeholder: "2 Kasım 2026 saat 14:30'da"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual output
+      description: Paste the output, or the trace from `tr-itn --explain` if you have it.
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Output of `tr-itn --surum`, or the commit hash.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Linux
+        - Windows
+        - macOS
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: python
+    attributes:
+      label: Python version
+      placeholder: "3.12.4"
+
+  - type: textarea
+    id: rule
+    attributes:
+      label: Why is the expected form correct?
+      description: One or two lines on the Turkish rule (suffix harmony, context, idiom). Optional but helpful.
+      render: text
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: This report contains no personal data or credentials.
+          required: true

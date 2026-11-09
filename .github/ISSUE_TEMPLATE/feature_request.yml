@@ -1,0 +1,67 @@
+name: Feature request
+description: Suggest a new rule, unit, style option or integration
+title: "feat: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        `tr-itn` deliberately keeps its scope narrow: Turkish ASR text, written-form output,
+        zero runtime dependencies. Requests that stay inside that scope are easiest to accept.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the ASR/subtitle/voice-bot situation where the current behavior is not enough.
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Input / expected output examples
+      description: Three to five concrete pairs are ideal.
+      render: text
+      placeholder: |
+        "kırk iki bin üç yüz" -> "42300"
+        "üç buçuk saat" -> "3,5 saat"
+    validations:
+      required: true
+
+  - type: textarea
+    id: pitfalls
+    attributes:
+      label: What could go wrong?
+      description: Negative examples that must NOT change, idioms that look similar, ambiguity concerns.
+      render: text
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - numbers / decimals / percent
+        - time
+        - date
+        - money
+        - units
+        - ordinal / suffixes
+        - context / ambiguity
+        - CLI / API
+        - streaming
+        - subtitles (SRT/VTT)
+        - domain dictionary
+        - documentation
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Constraints
+      options:
+        - label: This can be implemented with the standard library only (no new runtime dependency).
+          required: true
+        - label: This does not require restoring punctuation, capitalization or fixing word errors.
+          required: true

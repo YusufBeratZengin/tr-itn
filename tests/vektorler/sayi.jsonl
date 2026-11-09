@@ -1,0 +1,101 @@
+{"id": "sayi-001", "girdi": "sıfır", "beklenen": "0", "kural": "kardinal"}
+{"id": "sayi-002", "girdi": "iki", "beklenen": "2", "kural": "kardinal"}
+{"id": "sayi-003", "girdi": "üç", "beklenen": "3", "kural": "kardinal"}
+{"id": "sayi-004", "girdi": "dört", "beklenen": "4", "kural": "kardinal"}
+{"id": "sayi-005", "girdi": "beş", "beklenen": "5", "kural": "kardinal"}
+{"id": "sayi-006", "girdi": "altı", "beklenen": "6", "kural": "kardinal"}
+{"id": "sayi-007", "girdi": "yedi", "beklenen": "7", "kural": "kardinal"}
+{"id": "sayi-008", "girdi": "sekiz", "beklenen": "8", "kural": "kardinal"}
+{"id": "sayi-009", "girdi": "dokuz", "beklenen": "9", "kural": "kardinal"}
+{"id": "sayi-010", "girdi": "on", "beklenen": "10", "kural": "kardinal"}
+{"id": "sayi-011", "girdi": "on bir", "beklenen": "11", "kural": "kardinal"}
+{"id": "sayi-012", "girdi": "on iki", "beklenen": "12", "kural": "kardinal"}
+{"id": "sayi-013", "girdi": "on üç", "beklenen": "13", "kural": "kardinal"}
+{"id": "sayi-014", "girdi": "on dört", "beklenen": "14", "kural": "kardinal"}
+{"id": "sayi-015", "girdi": "on beş", "beklenen": "15", "kural": "kardinal"}
+{"id": "sayi-016", "girdi": "on altı", "beklenen": "16", "kural": "kardinal"}
+{"id": "sayi-017", "girdi": "on yedi", "beklenen": "17", "kural": "kardinal"}
+{"id": "sayi-018", "girdi": "on sekiz", "beklenen": "18", "kural": "kardinal"}
+{"id": "sayi-019", "girdi": "on dokuz", "beklenen": "19", "kural": "kardinal"}
+{"id": "sayi-020", "girdi": "yirmi", "beklenen": "20", "kural": "kardinal"}
+{"id": "sayi-021", "girdi": "otuz", "beklenen": "30", "kural": "kardinal"}
+{"id": "sayi-022", "girdi": "kırk", "beklenen": "40", "kural": "kardinal"}
+{"id": "sayi-023", "girdi": "elli", "beklenen": "50", "kural": "kardinal"}
+{"id": "sayi-024", "girdi": "altmış", "beklenen": "60", "kural": "kardinal"}
+{"id": "sayi-025", "girdi": "yetmiş", "beklenen": "70", "kural": "kardinal"}
+{"id": "sayi-026", "girdi": "seksen", "beklenen": "80", "kural": "kardinal"}
+{"id": "sayi-027", "girdi": "doksan", "beklenen": "90", "kural": "kardinal"}
+{"id": "sayi-028", "girdi": "yirmi bir", "beklenen": "21", "kural": "kardinal"}
+{"id": "sayi-029", "girdi": "yirmi iki", "beklenen": "22", "kural": "kardinal"}
+{"id": "sayi-030", "girdi": "otuz üç", "beklenen": "33", "kural": "kardinal"}
+{"id": "sayi-031", "girdi": "kırk beş", "beklenen": "45", "kural": "kardinal"}
+{"id": "sayi-032", "girdi": "elli altı", "beklenen": "56", "kural": "kardinal"}
+{"id": "sayi-033", "girdi": "altmış yedi", "beklenen": "67", "kural": "kardinal"}
+{"id": "sayi-034", "girdi": "yetmiş sekiz", "beklenen": "78", "kural": "kardinal"}
+{"id": "sayi-035", "girdi": "seksen dokuz", "beklenen": "89", "kural": "kardinal"}
+{"id": "sayi-036", "girdi": "doksan dokuz", "beklenen": "99", "kural": "kardinal"}
+{"id": "sayi-037", "girdi": "yirmi beş", "beklenen": "25", "kural": "kardinal"}
+{"id": "sayi-038", "girdi": "otuz altı", "beklenen": "36", "kural": "kardinal"}
+{"id": "sayi-039", "girdi": "kırk iki", "beklenen": "42", "kural": "kardinal"}
+{"id": "sayi-040", "girdi": "elli dokuz", "beklenen": "59", "kural": "kardinal"}
+{"id": "sayi-041", "girdi": "yetmiş bir", "beklenen": "71", "kural": "kardinal"}
+{"id": "sayi-042", "girdi": "seksen dört", "beklenen": "84", "kural": "kardinal"}
+{"id": "sayi-043", "girdi": "yüz bir", "beklenen": "101", "kural": "kardinal"}
+{"id": "sayi-044", "girdi": "yüz on", "beklenen": "110", "kural": "kardinal"}
+{"id": "sayi-045", "girdi": "yüz elli", "beklenen": "150", "kural": "kardinal"}
+{"id": "sayi-046", "girdi": "iki yüz", "beklenen": "200", "kural": "kardinal"}
+{"id": "sayi-047", "girdi": "iki yüz elli üç", "beklenen": "253", "kural": "kardinal"}
+{"id": "sayi-048", "girdi": "üç yüz on iki", "beklenen": "312", "kural": "kardinal"}
+{"id": "sayi-049", "girdi": "dört yüz", "beklenen": "400", "kural": "kardinal"}
+{"id": "sayi-050", "girdi": "beş yüz elli beş", "beklenen": "555", "kural": "kardinal"}
+{"id": "sayi-051", "girdi": "altı yüz altmış altı", "beklenen": "666", "kural": "kardinal"}
+{"id": "sayi-052", "girdi": "dokuz yüz doksan dokuz", "beklenen": "999", "kural": "kardinal"}
+{"id": "sayi-053", "girdi": "bin", "beklenen": "1000", "kural": "kardinal"}
+{"id": "sayi-054", "girdi": "bin bir", "beklenen": "1001", "kural": "kardinal"}
+{"id": "sayi-055", "girdi": "bin yüz", "beklenen": "1100", "kural": "kardinal"}
+{"id": "sayi-056", "girdi": "iki bin", "beklenen": "2000", "kural": "kardinal"}
+{"id": "sayi-057", "girdi": "iki bin yirmi altı", "beklenen": "2026", "kural": "kardinal"}
+{"id": "sayi-058", "girdi": "üç bin beş yüz kırk iki", "beklenen": "3542", "kural": "kardinal"}
+{"id": "sayi-059", "girdi": "on bin", "beklenen": "10000", "kural": "kardinal"}
+{"id": "sayi-060", "girdi": "on beş bin", "beklenen": "15000", "kural": "kardinal"}
+{"id": "sayi-061", "girdi": "on iki bin üç yüz kırk beş", "beklenen": "12345", "kural": "kardinal"}
+{"id": "sayi-062", "girdi": "yüz bin", "beklenen": "100000", "kural": "kardinal"}
+{"id": "sayi-063", "girdi": "iki yüz bin", "beklenen": "200000", "kural": "kardinal"}
+{"id": "sayi-064", "girdi": "dokuz yüz doksan dokuz bin", "beklenen": "999000", "kural": "kardinal"}
+{"id": "sayi-065", "girdi": "bin dokuz yüz seksen dört", "beklenen": "1984", "kural": "kardinal"}
+{"id": "sayi-066", "girdi": "üç yüz kırk iki bin beş yüz on altı", "beklenen": "342516", "kural": "kardinal"}
+{"id": "sayi-067", "girdi": "bir milyon", "beklenen": "1000000", "kural": "kardinal"}
+{"id": "sayi-068", "girdi": "bir milyon beş yüz bin", "beklenen": "1500000", "kural": "kardinal"}
+{"id": "sayi-069", "girdi": "iki milyon", "beklenen": "2000000", "kural": "kardinal"}
+{"id": "sayi-070", "girdi": "iki milyon yirmi beş bin", "beklenen": "2025000", "kural": "kardinal"}
+{"id": "sayi-071", "girdi": "bir milyon iki yüz bin", "beklenen": "1200000", "kural": "kardinal"}
+{"id": "sayi-072", "girdi": "bir milyar", "beklenen": "1000000000", "kural": "kardinal"}
+{"id": "sayi-073", "girdi": "iki milyar beş yüz milyon", "beklenen": "2500000000", "kural": "kardinal"}
+{"id": "sayi-074", "girdi": "yedi yüz milyon", "beklenen": "700000000", "kural": "kardinal"}
+{"id": "sayi-075", "girdi": "bir trilyon", "beklenen": "1000000000000", "kural": "kardinal"}
+{"id": "sayi-076", "girdi": "kırk bin", "beklenen": "40000", "kural": "kardinal"}
+{"id": "sayi-077", "girdi": "altıda", "beklenen": "6'da", "kural": "kardinal"}
+{"id": "sayi-078", "girdi": "dörtte", "beklenen": "4'te", "kural": "kardinal"}
+{"id": "sayi-079", "girdi": "otuzunda", "beklenen": "30'unda", "kural": "kardinal"}
+{"id": "sayi-080", "girdi": "binde", "beklenen": "1000'de", "kural": "kardinal"}
+{"id": "sayi-081", "girdi": "ikide", "beklenen": "2'de", "kural": "kardinal"}
+{"id": "sayi-082", "girdi": "yirmi birde", "beklenen": "21'de", "kural": "kardinal"}
+{"id": "sayi-083", "girdi": "elliye", "beklenen": "50'ye", "kural": "kardinal"}
+{"id": "sayi-084", "girdi": "dokuzda", "beklenen": "9'da", "kural": "kardinal"}
+{"id": "sayi-085", "girdi": "on dörtte", "beklenen": "14'te", "kural": "kardinal"}
+{"id": "sayi-086", "girdi": "iki binde", "beklenen": "2000'de", "kural": "kardinal"}
+{"id": "sayi-087", "girdi": "üç virgül beş", "beklenen": "3,5", "kural": "ondalik"}
+{"id": "sayi-088", "girdi": "sıfır virgül beş", "beklenen": "0,5", "kural": "ondalik"}
+{"id": "sayi-089", "girdi": "üç virgül sıfır beş", "beklenen": "3,05", "kural": "ondalik"}
+{"id": "sayi-090", "girdi": "on iki virgül yetmiş beş", "beklenen": "12,75", "kural": "ondalik"}
+{"id": "sayi-091", "girdi": "iki virgül sıfır sıfır bir", "beklenen": "2,001", "kural": "ondalik"}
+{"id": "sayi-092", "girdi": "yüz virgül beş", "beklenen": "100,5", "kural": "ondalik"}
+{"id": "sayi-093", "girdi": "bir virgül iki", "beklenen": "1,2", "kural": "ondalik"}
+{"id": "sayi-094", "girdi": "beş virgül altmış yedi", "beklenen": "5,67", "kural": "ondalik"}
+{"id": "sayi-095", "girdi": "ikimiz", "beklenen": "2'miz", "kural": "kardinal"}
+{"id": "sayi-096", "girdi": "üçümüz", "beklenen": "3'ümüz", "kural": "kardinal"}
+{"id": "sayi-097", "girdi": "beşi", "beklenen": "5'i", "kural": "kardinal"}
+{"id": "sayi-098", "girdi": "ikisi", "beklenen": "2'si", "kural": "kardinal"}
+{"id": "sayi-099", "girdi": "üçü", "beklenen": "3'ü", "kural": "kardinal"}
+{"id": "sayi-100", "girdi": "altısı", "beklenen": "6'sı", "kural": "kardinal"}
+{"id": "sayi-101", "girdi": "üç aylık abonelik", "beklenen": "3 aylık abonelik", "kural": "kardinal"}

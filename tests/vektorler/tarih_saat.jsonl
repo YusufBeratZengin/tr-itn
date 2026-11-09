@@ -1,0 +1,60 @@
+{"id": "tarih_saat-001", "girdi": "iki kasım", "beklenen": "2 Kasım", "kural": "tarih"}
+{"id": "tarih_saat-002", "girdi": "üç aralık", "beklenen": "3 Aralık", "kural": "tarih"}
+{"id": "tarih_saat-003", "girdi": "on beş ocak", "beklenen": "15 Ocak", "kural": "tarih"}
+{"id": "tarih_saat-004", "girdi": "yirmi bir mart", "beklenen": "21 Mart", "kural": "tarih"}
+{"id": "tarih_saat-005", "girdi": "otuz bir aralık", "beklenen": "31 Aralık", "kural": "tarih"}
+{"id": "tarih_saat-006", "girdi": "bir ocak", "beklenen": "1 Ocak", "kural": "tarih"}
+{"id": "tarih_saat-007", "girdi": "beş şubat", "beklenen": "5 Şubat", "kural": "tarih"}
+{"id": "tarih_saat-008", "girdi": "yedi nisan", "beklenen": "7 Nisan", "kural": "tarih"}
+{"id": "tarih_saat-009", "girdi": "on mayıs", "beklenen": "10 Mayıs", "kural": "tarih"}
+{"id": "tarih_saat-010", "girdi": "on dört haziran", "beklenen": "14 Haziran", "kural": "tarih"}
+{"id": "tarih_saat-011", "girdi": "yirmi temmuz", "beklenen": "20 Temmuz", "kural": "tarih"}
+{"id": "tarih_saat-012", "girdi": "üç ağustos", "beklenen": "3 Ağustos", "kural": "tarih"}
+{"id": "tarih_saat-013", "girdi": "dokuz eylül", "beklenen": "9 Eylül", "kural": "tarih"}
+{"id": "tarih_saat-014", "girdi": "on bir ekim", "beklenen": "11 Ekim", "kural": "tarih"}
+{"id": "tarih_saat-015", "girdi": "yirmi dokuz ekim", "beklenen": "29 Ekim", "kural": "tarih"}
+{"id": "tarih_saat-016", "girdi": "iki kasım iki bin yirmi altı", "beklenen": "2 Kasım 2026", "kural": "tarih"}
+{"id": "tarih_saat-017", "girdi": "on dokuz mayıs bin dokuz yüz on dokuz", "beklenen": "19 Mayıs 1919", "kural": "tarih"}
+{"id": "tarih_saat-018", "girdi": "yirmi üç nisan bin dokuz yüz yirmi", "beklenen": "23 Nisan 1920", "kural": "tarih"}
+{"id": "tarih_saat-019", "girdi": "bir ocak iki bin", "beklenen": "1 Ocak 2000", "kural": "tarih"}
+{"id": "tarih_saat-020", "girdi": "kasım iki bin yirmi altı", "beklenen": "Kasım 2026", "kural": "tarih"}
+{"id": "tarih_saat-021", "girdi": "aralık iki bin yirmi beş", "beklenen": "Aralık 2025", "kural": "tarih"}
+{"id": "tarih_saat-022", "girdi": "iki kasımda", "beklenen": "2 Kasım'da", "kural": "tarih"}
+{"id": "tarih_saat-023", "girdi": "üç aralıkta", "beklenen": "3 Aralık'ta", "kural": "tarih"}
+{"id": "tarih_saat-024", "girdi": "on beş ocakta", "beklenen": "15 Ocak'ta", "kural": "tarih"}
+{"id": "tarih_saat-025", "girdi": "yirmi bir martta", "beklenen": "21 Mart'ta", "kural": "tarih"}
+{"id": "tarih_saat-026", "girdi": "otuz bir aralıkta", "beklenen": "31 Aralık'ta", "kural": "tarih"}
+{"id": "tarih_saat-027", "girdi": "iki kasıma", "beklenen": "2 Kasım'a", "kural": "tarih"}
+{"id": "tarih_saat-028", "girdi": "beş hazirandan", "beklenen": "5 Haziran'dan", "kural": "tarih"}
+{"id": "tarih_saat-029", "girdi": "iki bin yirmi altı yılında", "beklenen": "2026 yılında", "kural": "tarih"}
+{"id": "tarih_saat-030", "girdi": "iki bin yirmi altıda", "beklenen": "2026'da", "kural": "kardinal"}
+{"id": "tarih_saat-031", "girdi": "bin dokuz yüz seksen dörtte", "beklenen": "1984'te", "kural": "kardinal"}
+{"id": "tarih_saat-032", "girdi": "iki kasım iki bin yirmi altıda", "beklenen": "2 Kasım 2026'da", "kural": "tarih"}
+{"id": "tarih_saat-033", "girdi": "saat on dört otuz", "beklenen": "saat 14:30", "kural": "saat"}
+{"id": "tarih_saat-034", "girdi": "saat dokuz", "beklenen": "saat 9:00", "kural": "saat"}
+{"id": "tarih_saat-035", "girdi": "saat üç buçuk", "beklenen": "saat 3:30", "kural": "saat"}
+{"id": "tarih_saat-036", "girdi": "saat üç çeyrek", "beklenen": "saat 3:15", "kural": "saat"}
+{"id": "tarih_saat-037", "girdi": "saat sıfır dokuz otuz", "beklenen": "saat 09:30", "kural": "saat"}
+{"id": "tarih_saat-038", "girdi": "saat on dört otuz beş", "beklenen": "saat 14:35", "kural": "saat"}
+{"id": "tarih_saat-039", "girdi": "saat yedi", "beklenen": "saat 7:00", "kural": "saat"}
+{"id": "tarih_saat-040", "girdi": "saat on iki", "beklenen": "saat 12:00", "kural": "saat"}
+{"id": "tarih_saat-041", "girdi": "saat yirmi üç elli dokuz", "beklenen": "saat 23:59", "kural": "saat"}
+{"id": "tarih_saat-042", "girdi": "on dört otuzda", "beklenen": "14:30'da", "kural": "saat"}
+{"id": "tarih_saat-043", "girdi": "on dört otuz beşte", "beklenen": "14:35'te", "kural": "saat"}
+{"id": "tarih_saat-044", "girdi": "dokuzda", "beklenen": "9'da", "kural": "kardinal"}
+{"id": "tarih_saat-045", "girdi": "saat beşte", "beklenen": "saat 5'te", "kural": "saat"}
+{"id": "tarih_saat-046", "girdi": "saat on dört sıfır beş", "beklenen": "saat 14:05", "kural": "saat"}
+{"id": "tarih_saat-047", "girdi": "saat üç buçukta", "beklenen": "saat 3:30'ta", "kural": "saat"}
+{"id": "tarih_saat-048", "girdi": "saat bir", "beklenen": "saat 1:00", "kural": "saat"}
+{"id": "tarih_saat-049", "girdi": "saat on", "beklenen": "saat 10:00", "kural": "saat"}
+{"id": "tarih_saat-050", "girdi": "on iki otuzda", "beklenen": "12:30'da", "kural": "saat"}
+{"id": "tarih_saat-051", "girdi": "yirmi üç on beşte", "beklenen": "23:15'te", "kural": "saat"}
+{"id": "tarih_saat-052", "girdi": "saat on dokuz kırk beş", "beklenen": "saat 19:45", "kural": "saat"}
+{"id": "tarih_saat-053", "girdi": "saat altı on", "beklenen": "saat 6:10", "kural": "saat"}
+{"id": "tarih_saat-054", "girdi": "iki bin yirmi altı yılı", "beklenen": "2026 yılı", "kural": "tarih"}
+{"id": "tarih_saat-055", "girdi": "beş ocak iki bin yirmi beşte", "beklenen": "5 Ocak 2025'te", "kural": "tarih"}
+{"id": "tarih_saat-056", "girdi": "on dört şubat iki bin yirmi altıda", "beklenen": "14 Şubat 2026'da", "kural": "tarih"}
+{"id": "tarih_saat-057", "girdi": "saat on dört otuzda", "beklenen": "saat 14:30'da", "kural": "saat"}
+{"id": "tarih_saat-058", "girdi": "saat sekiz buçuk", "beklenen": "saat 8:30", "kural": "saat"}
+{"id": "tarih_saat-059", "girdi": "on dokuz otuzda", "beklenen": "19:30'da", "kural": "saat"}
+{"id": "tarih_saat-060", "girdi": "saat on bir on bir", "beklenen": "saat 11:11", "kural": "saat"}

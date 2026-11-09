@@ -1,0 +1,60 @@
+{"id": "para_yuzde_birim-001", "girdi": "yüzde on sekiz", "beklenen": "%18", "kural": "yuzde"}
+{"id": "para_yuzde_birim-002", "girdi": "yüzde yüz", "beklenen": "%100", "kural": "yuzde"}
+{"id": "para_yuzde_birim-003", "girdi": "yüzde elli", "beklenen": "%50", "kural": "yuzde"}
+{"id": "para_yuzde_birim-004", "girdi": "yüzde iki buçuk", "beklenen": "%2,5", "kural": "yuzde"}
+{"id": "para_yuzde_birim-005", "girdi": "yüzde bir", "beklenen": "%1", "kural": "yuzde"}
+{"id": "para_yuzde_birim-006", "girdi": "yüzde on sekiz kdv", "beklenen": "%18 kdv", "kural": "yuzde"}
+{"id": "para_yuzde_birim-007", "girdi": "yüzde yirmi beş indirim", "beklenen": "%25 indirim", "kural": "yuzde"}
+{"id": "para_yuzde_birim-008", "girdi": "yüzde doksan dokuz", "beklenen": "%99", "kural": "yuzde"}
+{"id": "para_yuzde_birim-009", "girdi": "yüzde otuz üç", "beklenen": "%33", "kural": "yuzde"}
+{"id": "para_yuzde_birim-010", "girdi": "yüzde sıfır virgül beş", "beklenen": "%0,5", "kural": "yuzde"}
+{"id": "para_yuzde_birim-011", "girdi": "yüzde kırk", "beklenen": "%40", "kural": "yuzde"}
+{"id": "para_yuzde_birim-012", "girdi": "yüz elli lira", "beklenen": "150 TL", "kural": "para"}
+{"id": "para_yuzde_birim-013", "girdi": "iki bin dolar", "beklenen": "$2000", "kural": "para"}
+{"id": "para_yuzde_birim-014", "girdi": "elli kuruş", "beklenen": "50 kuruş", "kural": "para"}
+{"id": "para_yuzde_birim-015", "girdi": "on lira", "beklenen": "10 TL", "kural": "para"}
+{"id": "para_yuzde_birim-016", "girdi": "bin lira", "beklenen": "1000 TL", "kural": "para"}
+{"id": "para_yuzde_birim-017", "girdi": "üç yüz euro", "beklenen": "€300", "kural": "para"}
+{"id": "para_yuzde_birim-018", "girdi": "yüz sterlin", "beklenen": "£100", "kural": "para"}
+{"id": "para_yuzde_birim-019", "girdi": "yüz elli liraya", "beklenen": "150 TL'ye", "kural": "para"}
+{"id": "para_yuzde_birim-020", "girdi": "iki bin dolara", "beklenen": "2000 dolara", "kural": "para"}
+{"id": "para_yuzde_birim-021", "girdi": "on liradan", "beklenen": "10 TL'den", "kural": "para"}
+{"id": "para_yuzde_birim-022", "girdi": "beş milyon lira", "beklenen": "5000000 TL", "kural": "para"}
+{"id": "para_yuzde_birim-023", "girdi": "iki yüz elli bin lira", "beklenen": "250000 TL", "kural": "para"}
+{"id": "para_yuzde_birim-024", "girdi": "kırk beş lira", "beklenen": "45 TL", "kural": "para"}
+{"id": "para_yuzde_birim-025", "girdi": "dokuz yüz doksan lira", "beklenen": "990 TL", "kural": "para"}
+{"id": "para_yuzde_birim-026", "girdi": "iki buçuk lira", "beklenen": "2,5 TL", "kural": "para"}
+{"id": "para_yuzde_birim-027", "girdi": "yirmi beş lira", "beklenen": "25 TL", "kural": "para"}
+{"id": "para_yuzde_birim-028", "girdi": "üç kilometre", "beklenen": "3 km", "kural": "birim"}
+{"id": "para_yuzde_birim-029", "girdi": "beş kilo", "beklenen": "5 kg", "kural": "birim"}
+{"id": "para_yuzde_birim-030", "girdi": "yirmi beş derece", "beklenen": "25°", "kural": "birim"}
+{"id": "para_yuzde_birim-031", "girdi": "iki saat", "beklenen": "2 saat", "kural": "birim"}
+{"id": "para_yuzde_birim-032", "girdi": "on dakika", "beklenen": "10 dk", "kural": "birim"}
+{"id": "para_yuzde_birim-033", "girdi": "üç kilometreye", "beklenen": "3 km'ye", "kural": "birim"}
+{"id": "para_yuzde_birim-034", "girdi": "beş kilogram", "beklenen": "5 kg", "kural": "birim"}
+{"id": "para_yuzde_birim-035", "girdi": "on metre", "beklenen": "10 m", "kural": "birim"}
+{"id": "para_yuzde_birim-036", "girdi": "iki litre", "beklenen": "2 l", "kural": "birim"}
+{"id": "para_yuzde_birim-037", "girdi": "üç gün", "beklenen": "3 gün", "kural": "birim"}
+{"id": "para_yuzde_birim-038", "girdi": "dört hafta", "beklenen": "4 hafta", "kural": "birim"}
+{"id": "para_yuzde_birim-039", "girdi": "altı ay", "beklenen": "6 ay", "kural": "birim"}
+{"id": "para_yuzde_birim-040", "girdi": "yedi yıl", "beklenen": "7 yıl", "kural": "birim"}
+{"id": "para_yuzde_birim-041", "girdi": "sekiz saniye", "beklenen": "8 sn", "kural": "birim"}
+{"id": "para_yuzde_birim-042", "girdi": "dokuz sayfa", "beklenen": "9 sayfa", "kural": "birim"}
+{"id": "para_yuzde_birim-043", "girdi": "on kişi", "beklenen": "10 kişi", "kural": "birim"}
+{"id": "para_yuzde_birim-044", "girdi": "yirmi beş puan", "beklenen": "25 puan", "kural": "birim"}
+{"id": "para_yuzde_birim-045", "girdi": "üç ton", "beklenen": "3 ton", "kural": "birim"}
+{"id": "para_yuzde_birim-046", "girdi": "iki yüz gram", "beklenen": "200 g", "kural": "birim"}
+{"id": "para_yuzde_birim-047", "girdi": "on beş santimetre", "beklenen": "15 cm", "kural": "birim"}
+{"id": "para_yuzde_birim-048", "girdi": "kırk milimetre", "beklenen": "40 mm", "kural": "birim"}
+{"id": "para_yuzde_birim-049", "girdi": "iki buçuk kilo", "beklenen": "2,5 kg", "kural": "birim"}
+{"id": "para_yuzde_birim-050", "girdi": "üç buçuk litre", "beklenen": "3,5 l", "kural": "birim"}
+{"id": "para_yuzde_birim-051", "girdi": "on beş dakika", "beklenen": "15 dk", "kural": "birim"}
+{"id": "para_yuzde_birim-052", "girdi": "otuz saniye", "beklenen": "30 sn", "kural": "birim"}
+{"id": "para_yuzde_birim-053", "girdi": "yüz metre", "beklenen": "100 m", "kural": "birim"}
+{"id": "para_yuzde_birim-054", "girdi": "beş yüz gram", "beklenen": "500 g", "kural": "birim"}
+{"id": "para_yuzde_birim-055", "girdi": "on iki kilogram", "beklenen": "12 kg", "kural": "birim"}
+{"id": "para_yuzde_birim-056", "girdi": "altı metre", "beklenen": "6 m", "kural": "birim"}
+{"id": "para_yuzde_birim-057", "girdi": "iki yüz mililitre", "beklenen": "200 ml", "kural": "birim"}
+{"id": "para_yuzde_birim-058", "girdi": "bir buçuk saat", "beklenen": "1,5 saat", "kural": "birim"}
+{"id": "para_yuzde_birim-059", "girdi": "iki yüz elli gram", "beklenen": "250 g", "kural": "birim"}
+{"id": "para_yuzde_birim-060", "girdi": "dokuz yüz kilometre", "beklenen": "900 km", "kural": "birim"}

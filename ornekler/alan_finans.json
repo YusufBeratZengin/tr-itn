@@ -1,0 +1,10 @@
+{
+  "ad": "finans",
+  "kurallar": {
+    "kdv": "KDV",
+    "tl": "TL",
+    "eft": "EFT",
+    "iban": "IBAN",
+    "vadeli": "vadeli"
+  }
+}

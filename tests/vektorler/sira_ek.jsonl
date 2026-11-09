@@ -1,0 +1,40 @@
+{"id": "sira_ek-001", "girdi": "üçüncü", "beklenen": "3.", "kural": "sira"}
+{"id": "sira_ek-002", "girdi": "ikinci", "beklenen": "2.", "kural": "sira"}
+{"id": "sira_ek-003", "girdi": "birinci", "beklenen": "1.", "kural": "sira"}
+{"id": "sira_ek-004", "girdi": "dördüncü", "beklenen": "4.", "kural": "sira"}
+{"id": "sira_ek-005", "girdi": "beşinci", "beklenen": "5.", "kural": "sira"}
+{"id": "sira_ek-006", "girdi": "altıncı", "beklenen": "6.", "kural": "sira"}
+{"id": "sira_ek-007", "girdi": "yedinci", "beklenen": "7.", "kural": "sira"}
+{"id": "sira_ek-008", "girdi": "sekizinci", "beklenen": "8.", "kural": "sira"}
+{"id": "sira_ek-009", "girdi": "dokuzuncu", "beklenen": "9.", "kural": "sira"}
+{"id": "sira_ek-010", "girdi": "onuncu", "beklenen": "10.", "kural": "sira"}
+{"id": "sira_ek-011", "girdi": "yirminci", "beklenen": "20.", "kural": "sira"}
+{"id": "sira_ek-012", "girdi": "otuzuncu", "beklenen": "30.", "kural": "sira"}
+{"id": "sira_ek-013", "girdi": "kırkıncı", "beklenen": "40.", "kural": "sira"}
+{"id": "sira_ek-014", "girdi": "ellinci", "beklenen": "50.", "kural": "sira"}
+{"id": "sira_ek-015", "girdi": "altmışıncı", "beklenen": "60.", "kural": "sira"}
+{"id": "sira_ek-016", "girdi": "yetmişinci", "beklenen": "70.", "kural": "sira"}
+{"id": "sira_ek-017", "girdi": "sekseninci", "beklenen": "80.", "kural": "sira"}
+{"id": "sira_ek-018", "girdi": "doksanıncı", "beklenen": "90.", "kural": "sira"}
+{"id": "sira_ek-019", "girdi": "yüzüncü", "beklenen": "100.", "kural": "sira"}
+{"id": "sira_ek-020", "girdi": "bininci", "beklenen": "1000.", "kural": "sira"}
+{"id": "sira_ek-021", "girdi": "on birinci", "beklenen": "11.", "kural": "sira"}
+{"id": "sira_ek-022", "girdi": "yirmi ikinci", "beklenen": "22.", "kural": "sira"}
+{"id": "sira_ek-023", "girdi": "otuz üçüncü", "beklenen": "33.", "kural": "sira"}
+{"id": "sira_ek-024", "girdi": "yüz elli üçüncü", "beklenen": "153.", "kural": "sira"}
+{"id": "sira_ek-025", "girdi": "iki bin yirmi altıncı", "beklenen": "2026.", "kural": "sira"}
+{"id": "sira_ek-026", "girdi": "ikincisi", "beklenen": "2'ncisi", "kural": "sira"}
+{"id": "sira_ek-027", "girdi": "birincisi", "beklenen": "1'incisi", "kural": "sira"}
+{"id": "sira_ek-028", "girdi": "üçüncüsü", "beklenen": "3'üncüsü", "kural": "sira"}
+{"id": "sira_ek-029", "girdi": "dördüncüsü", "beklenen": "4'üncüsü", "kural": "sira"}
+{"id": "sira_ek-030", "girdi": "beşincisi", "beklenen": "5'incisi", "kural": "sira"}
+{"id": "sira_ek-031", "girdi": "altıncısı", "beklenen": "6'ncısı", "kural": "sira"}
+{"id": "sira_ek-032", "girdi": "onuncusu", "beklenen": "10'uncusu", "kural": "sira"}
+{"id": "sira_ek-033", "girdi": "yirmincisi", "beklenen": "20'ncisi", "kural": "sira"}
+{"id": "sira_ek-034", "girdi": "üçüncü sırada", "beklenen": "3. sırada", "kural": "sira"}
+{"id": "sira_ek-035", "girdi": "ikinci sırada", "beklenen": "2. sırada", "kural": "sira"}
+{"id": "sira_ek-036", "girdi": "birinci sınıf", "beklenen": "1. sınıf", "kural": "sira"}
+{"id": "sira_ek-037", "girdi": "ikinci kez", "beklenen": "2. kez", "kural": "sira"}
+{"id": "sira_ek-038", "girdi": "dördüncü kez", "beklenen": "4. kez", "kural": "sira"}
+{"id": "sira_ek-039", "girdi": "yirmi beşinci", "beklenen": "25.", "kural": "sira"}
+{"id": "sira_ek-040", "girdi": "doksan dokuzuncu", "beklenen": "99.", "kural": "sira"}
